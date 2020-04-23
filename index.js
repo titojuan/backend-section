@@ -12,4 +12,4 @@ mongoose
     useUnifiedTopology: true
   })
   .then(() => server.start())
-  .catch(console.log)
+  .catch(console.log) 
